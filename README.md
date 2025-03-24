@@ -31,7 +31,26 @@ RecipeHub/
 - **Bootstrap 5** – Ensures a responsive and interactive UI.
 - **Font Awesome** – Enhances UI with intuitive icons.
 
+
 ## Screenshots
+
+### Homepage
+![Homepage](Screenshots/home_page.png)
+
+### Filter Feature
+![Home Filter](Screenshots/home_filter.png)
+
+### Add Recipe Form - Step 1
+![Form Page 1](Screenshots/form_page1.png)
+
+### Add Recipe Form - Step 2
+![Form Page 2](Screenshots/form_page2.png)
+
+### Recipe Modal View
+![Recipe Modal](Screenshots/recipe_modal.png)
+
+### Footer
+![Footer](Screenshots/footer.png)
 
 
 ## How to Use
