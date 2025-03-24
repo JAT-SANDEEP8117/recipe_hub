@@ -29,6 +29,8 @@ RecipeHub is a simple and beautifully designed recipe website where users can di
 
 
 🚀 Technologies Used
+
+
 HTML5: Structured content and accessibility.
 
 CSS3: Modern styling with hover effects and transitions.
