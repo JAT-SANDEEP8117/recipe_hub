@@ -55,7 +55,7 @@ Add Your Own Recipe: Use the "Add Recipe" form to submit your favorite dish.
 
 ⚡ Setup Instructions
 Clone this repository:
-git clone https://github.com/yourusername/RecipeHub.git
+git clone https://github.com/JAT-SANDEEP8117/recipe_hub.git
 
 Open index.html in a browser to start exploring recipes.
 
