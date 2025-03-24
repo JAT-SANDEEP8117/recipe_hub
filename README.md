@@ -18,7 +18,9 @@ RecipeHub is a simple and beautifully designed recipe website where users can di
 🔗 Navigation-Friendly: Keeps users on the same page while navigating through recipes.
 
 📂 Project Structure
+
 📁 RecipeHub/
+
 ├── 📄 index.html         # Main page with categorized recipes
 ├── 📄 add_recipe.html    # Add Recipe page for user submissions
 ├── 📄 style.css         # CSS file for styling and responsiveness
